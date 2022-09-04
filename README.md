@@ -5,3 +5,6 @@ In this project, I and my fellow colleagues performed an Image recognisition tas
 The task involved building and training a neural network to perform image recognision. The network built was a Convolutional Neural Network which was fine tuned with hyper parameters regularisers, batchnorm, convolution and pooling layers augmentation to make it better at classifing the images.
 
 In this repository, I attach a full python script that accurately performed the classification task with an accuracy of over 97% measured using a confussin matrix.
+
+### Requirements:
+Runing on colab with a GPU enabled
