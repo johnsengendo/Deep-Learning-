@@ -7,4 +7,4 @@ The task involved building and training a neural network to perform image recogn
 In this repository, I attach a full python script that accurately performed the classification task with an accuracy of over 97% measured using a confussin matrix.
 
 ### Requirements:
-Runing on colab with a GPU enabled
+Run on colab with a GPU enabled.
