@@ -16,5 +16,5 @@ In this repository, I attach a full python script that accurately performed the 
 * Precision, Recall and F1 score
 
 ### Requirements:
-Run in colab with a GPU enabled.
-The algorithm can also be run in a Jupyter notebook.
+* Run in colab with a GPU enabled.
+* The algorithm can also be run in a Jupyter notebook.
