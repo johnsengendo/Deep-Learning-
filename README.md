@@ -5,15 +5,15 @@ In this project, I performed an Image recognisition task on a CIFAR100 [dataset]
 
 The task involved developing and training a neural network to perform image recognision and classification. The network built was a Convolutional Neural Network which was fine tuned with these hyper parameters;
 
-*Regularisation
-*Batch normalization
-*Convolution and pooling layers.
-*Augmentation.
+* Regularisation
+* Batch normalization
+* Convolution and pooling layers.
+* Augmentation.
 
 In this repository, I attach a full python script that accurately performed the recognition & classification task with an accuracy of over 97% measured using two classification approaches;
 
-*confussin matrix.
-*Precision, Recall and F1 score
+* confussin matrix.
+* Precision, Recall and F1 score
 
 ### Requirements:
 Run in colab with a GPU enabled.
