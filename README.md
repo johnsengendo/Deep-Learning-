@@ -13,7 +13,7 @@ The task involved developing and training a neural network to perform image reco
 In this repository, I attach a full python script that accurately performed the recognition & classification task with an accuracy of over 97% measured using two classification approaches;
 
 * confussin matrix.
-* Precision, Recall and F1 score
+* Precision, [Recall](recall.JPG) and [F1 score](F1 score_.JPG) 
 ![Precision](precision.JPG)<br>
 
 
