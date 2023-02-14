@@ -13,11 +13,9 @@ The task involved developing and training a neural network to perform image reco
 In this repository, I attach a full python script that accurately performed the recognition & classification task with an accuracy of over 97% measured using two classification approaches;
 
 * confussin matrix.
-* Precision, [Recall](recall.JPG) and [F1score](F1 score_.JPG) 
+* Precision, recall and F1 Score.
 ![Precision](precision.JPG)<br>
 ![Precision](recall.JPG)
-![Precision](F1 score_.JPG)
-F1 score_.JPG
 
 ### Requirements:
 * Run in colab with a GPU enabled.
