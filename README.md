@@ -20,4 +20,3 @@ In this repository, I attach a full python script that accurately performed the 
 ### Requirements:
 * Run in colab with a GPU enabled.
 * The algorithm can also be run in a Jupyter notebook.
-![F1 SCORE](F1 score_.JPG)
