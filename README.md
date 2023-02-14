@@ -14,6 +14,8 @@ In this repository, I attach a full python script that accurately performed the 
 
 * confussin matrix.
 * Precision, Recall and F1 score
+![Precision](Precision.JPG)
+![F1 SCORE](F1 score.JPG)
 
 ### Requirements:
 * Run in colab with a GPU enabled.
