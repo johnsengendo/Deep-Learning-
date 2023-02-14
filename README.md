@@ -16,6 +16,8 @@ In this repository, I attach a full python script that accurately performed the 
 * Precision, [Recall](recall.JPG) and [F1score](F1 score_.JPG) 
 ![Precision](precision.JPG)<br>
 ![Precision](recall.JPG)
+![Precision](F1 score_.JPG)
+F1 score_.JPG
 
 ### Requirements:
 * Run in colab with a GPU enabled.
