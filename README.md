@@ -21,8 +21,7 @@ In this repository, I attach a full python script that accurately performed the 
 * Precision, recall and F1 Score.
 ![Precision](precision.JPG)<br>
 ![Precision](recall.JPG)<br>
-
-![Precision](F1 score_.JPG)
+![Precision](Confusion_Matrix.JPG)
 
 
 
