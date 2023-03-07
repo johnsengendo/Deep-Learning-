@@ -20,6 +20,8 @@ In this repository, I attach a full python script that accurately performed the 
 * confussin matrix.
 * Precision, recall and F1 Score.
 ![Precision](precision.JPG)<br>
-![Precision](recall.JPG)
+![Precision](recall.JPG)<br>
+![Precision](F1 score_.JPG)
+
 
 
