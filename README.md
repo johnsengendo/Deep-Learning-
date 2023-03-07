@@ -15,7 +15,7 @@ The task involved developing and training a convolutional neural network to perf
 * Convolution and pooling layers.
 * Augmentation.
 
-In this repository, I attach a full python script that accurately performed the recognition & classification task with an accuracy of over 97%. Evalution was performed using the approaches below:
+In this repository, I attach a full python script that accurately performed the recognition & classification task with an accuracy of over 97%. Evalution was performed using the classification approaches below:
 
 * confussin matrix.
 * Precision, recall and F1 Score.
