@@ -1,7 +1,7 @@
 # Deep-Learning image classification.
 
 Image recognisition and classification has become a leading application in deeplearning which has found applications in Medical image diagnosis, self driving cars , car number plate reading in self operated parkings. Applications of Deep learning are still growing exponentially. 
-In this project, I performed an Image classification task on a CIFAR100 [dataset](https://www.cs.toronto.edu/~kriz/cifar.html) 
+In this project, I performed an Image classification task on a [CIFAR-100 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) 
 
 ### Requirements:
 * First downloading the dataset.
